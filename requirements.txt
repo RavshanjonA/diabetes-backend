@@ -1,5 +1,5 @@
-Django==4.2.2
-djangorestframework==3.14.0
+Django
+djangorestframework
 scikit-learn==1.2.2
 drf-yasg==1.21.6
 django-cors-headers==4.1.0
